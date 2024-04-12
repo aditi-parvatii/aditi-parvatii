@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aditi-parvatii
-- 👀 I’m interested in Machine Learning, Data Science, Data Analytics
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Related Projects
+- 👀 I’m interested in Machine Learning, Data Science, Data Analytics, Product Management and Backend Development
 - 📫 How to reach me: aditiparvati2@gmail.com
 
 <!---
